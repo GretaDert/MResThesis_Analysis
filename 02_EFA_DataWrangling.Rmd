@@ -1,0 +1,12 @@
+---
+title: "02_EFA_DataWrangling"
+author: "Greta Dertwinkel"
+date: "2025-10-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Set up
